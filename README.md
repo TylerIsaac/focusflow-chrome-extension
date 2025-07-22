@@ -2,21 +2,7 @@
 
 A clean, focused homepage Chrome extension for your new tab.
 
-![FocusFlow Preview](./screenshot.png)
-
-## Download
-
-Get the latest packaged extension zip directly:
-
-➡️ **[Download FocusFlow v1.0.0](https://github.com/your-username/focusflow/releases/latest/download/focusflow.zip)**
-
-You can then load it in Chrome via **chrome://extensions → Load unpacked → select the unzipped folder**.
-
-## Chrome Web Store
-
-Install directly from the Web Store:
-
-[**Add to Chrome**](https://chrome.google.com/webstore/detail/focusflow/REPLACE_WITH_YOUR_EXTENSION_ID)
+![FocusFlow Preview](https://focusflow-chrome-extension.vercel.app/)
 
 ---
 
@@ -36,7 +22,7 @@ Install directly from the Web Store:
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/focusflow.git
+   git clone https://github.com/TylerIsaac/focusflow-chrome-extension.git
    cd focusflow
    ```
 
@@ -78,4 +64,4 @@ Remember to bump the `"version"` in `manifest.json` and update this README accor
 
 ## License
 
-MIT © [Your Name](https://github.com/your-username)
+MIT © [Your Name](https://github.com/TylerIsaac)
