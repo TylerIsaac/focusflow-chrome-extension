@@ -64,4 +64,4 @@ Remember to bump the `"version"` in `manifest.json` and update this README accor
 
 ## License
 
-MIT © [Your Name](https://github.com/TylerIsaac)
+MIT © [Tyler Isaac](https://github.com/TylerIsaac)
