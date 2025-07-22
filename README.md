@@ -2,7 +2,7 @@
 
 A clean, focused homepage Chrome extension for your new tab.
 
-[FocusFlow Preview](https://i.ibb.co/994Sxk9P/Zight-2025-7-20-at-7-11-01-PM.png)
+[FocusFlow Preview](https://focusflow-chrome-extension.vercel.app/)
 
 ---
 
